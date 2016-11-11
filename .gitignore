@@ -1,0 +1,6 @@
+/.metadata/
+/RemoteSystemsTempFiles/
+/.recommenders/
+.DS_Store
+
+*.class
