@@ -1,5 +1,4 @@
 public class StringsJoin2 {
-
 	public static void main(String[] args) {
 		String str = "変数numの値は";
 		int num = 5573;
@@ -8,5 +7,4 @@ public class StringsJoin2 {
 
 		System.out.println(joinedStr);
 	}
-
 }

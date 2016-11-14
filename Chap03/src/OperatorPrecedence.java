@@ -1,5 +1,4 @@
 public class OperatorPrecedence {
-
 	public static void main(String[] args) {
 		String str = "計算結果: ";
 		int num1 = 123;
@@ -11,5 +10,4 @@ public class OperatorPrecedence {
 		System.out.println(ans1);
 		System.out.println(ans2);
 	}
-
 }

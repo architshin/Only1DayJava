@@ -1,5 +1,4 @@
 public class FourArithmeticOperations {
-
 	public static void main(String[] args) {
 		int num1 = 6;
 		int num2 = 3;
@@ -14,5 +13,4 @@ public class FourArithmeticOperations {
 		System.out.println(ans3);
 		System.out.println(ans4);
 	}
-
 }

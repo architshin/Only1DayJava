@@ -1,5 +1,4 @@
 public class AssignmentOperator {
-
 	public static void main(String[] args) {
 		int num = 346;
 		num = num + 4;  // (1)
@@ -8,5 +7,4 @@ public class AssignmentOperator {
 		num += 5;  // (2)
 		System.out.println("numの値: " + num);
 	}
-
 }

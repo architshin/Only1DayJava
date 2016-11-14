@@ -1,5 +1,4 @@
 public class DivisionOperation2 {
-
 	public static void main(String[] args) {
 		int num1 = 6;
 		int num2 = 5;
@@ -8,5 +7,4 @@ public class DivisionOperation2 {
 
 		System.out.println(ans);
 	}
-
 }

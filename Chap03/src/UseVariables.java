@@ -1,5 +1,4 @@
 public class UseVariables {
-
 	public static void main(String[] args) {
 		String name;  // (1)
 		int num;  // (2)
@@ -13,5 +12,4 @@ public class UseVariables {
 		System.out.println(num);
 		System.out.println(dec);
 	}
-
 }
