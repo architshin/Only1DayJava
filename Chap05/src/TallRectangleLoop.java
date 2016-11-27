@@ -15,6 +15,5 @@ public class TallRectangleLoop {
 			}
 			System.out.println();
 		}
-
 	}
 }
