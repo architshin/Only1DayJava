@@ -1,10 +1,10 @@
 public class WithoutArray {
 	public static void main(String[] args) {
-		int num1 = (int) (10 * Math.random()) + 1;
-		int num2 = num1 + 1;
-		int num3 = num1 + num2;
-		int num4 = num2 + num3;
-		int num5 = num3 + num4;
+		int num1 = 8;
+		int num2 = 9;
+		int num3 = 17;
+		int num4 = 26;
+		int num5 = 43;
 
 		System.out.println("num1: " + num1);
 		System.out.println("num2: " + num2);
