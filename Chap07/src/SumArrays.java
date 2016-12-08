@@ -8,16 +8,16 @@ public class SumArrays {
 		int sum2 = 0;
 		int sum3 = 0;
 
-		for(int i = 0; i < list1.length; i++) {
-			sum1 += list1[i];
+		for(int i : list1) {
+			sum1 += i;
 		}
 
-		for(int i = 0; i < list2.length; i++) {
-			sum2 += list2[i];
+		for(int i : list2) {
+			sum2 += i;
 		}
 
-		for(int i = 0; i < list3.length; i++) {
-			sum3 += list3[i];
+		for(int i : list3) {
+			sum3 += i;
 		}
 
 		System.out.println("配列1内の合計は、" + sum1 + "です。");
