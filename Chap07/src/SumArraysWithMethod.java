@@ -14,6 +14,6 @@ public class SumArraysWithMethod {
 		for(int element : array) {
 			sum += element;
 		}
-		System.out.println("配列内の合計は、" + sum + "です。");
+		System.out.println("配列内の合計: " + sum);
 	}
 }

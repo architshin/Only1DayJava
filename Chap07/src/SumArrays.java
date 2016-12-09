@@ -20,8 +20,8 @@ public class SumArrays {
 			sum3 += i;
 		}
 
-		System.out.println("配列1内の合計は、" + sum1 + "です。");
-		System.out.println("配列2内の合計は、" + sum2 + "です。");
-		System.out.println("配列3内の合計は、" + sum3 + "です。");
+		System.out.println("配列1内の合計: " + sum1);
+		System.out.println("配列2内の合計: " + sum2);
+		System.out.println("配列3内の合計: " + sum3);
 	}
 }
