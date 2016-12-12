@@ -4,7 +4,7 @@ public class UseAArrayOperationsWithField {
 
 		ArrayOperationsWithField arrayOpe = new ArrayOperationsWithField();
 		int sum = arrayOpe.getSumArray(list);
-		arrayOpe.showSumArray();
-		System.out.println("戻り値を表示: " + sum);
+		double ave = arrayOpe.getAverage();
+		System.out.println("配列内の合計: " + sum + " 平均: " + ave);
 	}
 }

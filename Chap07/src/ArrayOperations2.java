@@ -7,11 +7,12 @@ public class ArrayOperations2 {
 		return sum;
 	}
 
-	public void showSumArray(int[] array) {
+	public double getAverage(int[] array) {
 		int sum = 0;
 		for(int element : array) {
 			sum += element;
 		}
-		System.out.println("配列内の合計: " + sum);
+		double average = (double) sum / array.length;
+		return average;
 	}
 }

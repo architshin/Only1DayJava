@@ -1,7 +1,9 @@
 public class ArrayOperationsWithField {
 	public int _sum;
+	public int _arrayLength;
 
 	public int getSumArray(int[] array) {
+		_arrayLength = array.length;
 		int sum = 0;
 		for(int element : array) {
 			sum += element;
@@ -10,7 +12,8 @@ public class ArrayOperationsWithField {
 		return sum;
 	}
 
-	public void showSumArray() {
-		System.out.println("フィールドの合計値: " + _sum);
+	public double getAverage() {
+		double average = (double) _sum / _arrayLength;
+		return average;
 	}
 }
