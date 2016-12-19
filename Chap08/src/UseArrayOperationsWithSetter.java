@@ -1,3 +1,5 @@
+import setter.ArrayOperationsWithSetter;
+
 public class UseArrayOperationsWithSetter {
 	public static void main(String[] args) {
 		int[] list = {4, 5, 84, 7, 1, 15};

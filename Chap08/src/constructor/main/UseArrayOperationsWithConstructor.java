@@ -1,3 +1,7 @@
+package constructor.main;
+
+import constructor.classes.ArrayOperationsWithConstructor;
+
 public class UseArrayOperationsWithConstructor {
 	public static void main(String[] args) {
 		int[] list = {4, 5, 84, 7, 1, 15};
