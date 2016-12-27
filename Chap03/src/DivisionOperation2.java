@@ -3,7 +3,7 @@ public class DivisionOperation2 {
 		int num1 = 6;
 		int num2 = 5;
 
-		double ans = num1 / num2;
+		double ans = (double)num1 / num2;
 
 		System.out.println(ans);
 	}
