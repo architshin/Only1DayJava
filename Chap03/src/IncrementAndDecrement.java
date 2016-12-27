@@ -1,9 +1,9 @@
 public class IncrementAndDecrement {
 	public static void main(String[] args) {
 		int num = 100;
-		num++;  // (1)
+		num++;
 		System.out.println("numの値: " + num);
-		num--;  // (2)
+		num--;
 		System.out.println("numの値: " + num);
 	}
 }
