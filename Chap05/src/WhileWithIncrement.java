@@ -1,4 +1,4 @@
-public class WhileWithIncremen {
+public class WhileWithIncrement {
 	public static void main(String[] args) {
 		int ans = 0;
 		int i = 1;

@@ -1,4 +1,4 @@
-public class UseAArrayOperationsWithField {
+public class UseArrayOperationsWithField {
 	public static void main(String[] args) {
 		int[] list = {4, 5, 84, 7, 1, 15};
 
